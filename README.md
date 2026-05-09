@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hey, I'm Mateo 👋
 
-<!--
-**daniel-code85/daniel-code85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+🚀 Beginner Freelancer  
+🎨 Passionate About Modern UI & Web Design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🔭 Currently improving my frontend development skills
+- 🌱 Learning React, APIs, and modern web technologies
+- 💡 Interested in freelancing and startup projects
+- 🤝 Open to networking and collaboration
+- ⚡ Focused on clean UI and responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Figma
+
+---
+
+## 📂 Current Goals
+
+- Build professional portfolio projects
+- Gain real client experience
+- Improve problem-solving skills
+- Create high-quality web applications
+
+---
+
+## 📫 Contact
+
+- Discord: yourdiscordname
+- Email: your@email.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building modern interfaces and continuously learning new technologies.
+
+---
+
+⭐ Thanks for visiting my profile!

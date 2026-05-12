@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Mateo 👋
+# Hey, I'm Hujimoto 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Beginner+Freelancer;React+Learner;Building+Modern+Websites" />
 
